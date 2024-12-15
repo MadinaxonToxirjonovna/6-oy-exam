@@ -1,0 +1,1 @@
+print("Salom N61 gruh")
